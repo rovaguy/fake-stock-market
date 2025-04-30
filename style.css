@@ -1,0 +1,30 @@
+body {
+  font-family: 'Overpass', sans-serif;
+  background: #111;
+  color: #eee;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 20px;
+  color: #0f0;
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  width: 90%;
+}
+
+th, td {
+  padding: 12px;
+  border-bottom: 1px solid #333;
+}
+
+.up {
+  color: #00ff00;
+}
+
+.down {
+  color: #ff4444;
+}
